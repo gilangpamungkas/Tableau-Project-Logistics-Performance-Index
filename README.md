@@ -1,14 +1,16 @@
 # Tableau-Projects
 This repository contains the analysis and visualizations I have created in Tableau.
 
-### Prosper Loan Data Visualization
+### Logistics Performance index
 #### About
-Prosper is a peer-to-peer lending platform that aims to connect people who need money with those people who have the money to invest. In this data analysis project, I have explored the Prosper dataset and used Tableau to create my visualizations.
+The Logistics Performance Index (LPI) is an interactive benchmarking tool created by the World Bank to help countries identify the challenges and opportunities they face in their performance on trade logistics and what they can do to improve their performance.It is the weighted average of the country scores on six key dimensions: customs performance, infrastructure quality, ease of arranging shipments, logistics services quality, consignments tracking and tracing and timeliness of shipments. 
+
+The Logistics Performance Index is reported by the World Bank in every two years. The LPI is based on a worldwide survey of stakeholders on the ground providing feedback on the logistics "friendliness" of the countries in which they operate and those with which they trade. They combine in-depth knowledge of the countries in which they operate with informed qualitative assessments of other countries where they trade and have experience of global logistics environment. In this data analysis project, I have explored the LPI dataset and used Tableau to create my own visualizations version.
 
 #### Dataset
-The Prosper loan data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. The dataset and data-dictionary can be found on below links.
-- [Prosper Loan Dataset](https://raw.githubusercontent.com/jubins/Tableau-Projects/master/ProsperLoanData/data/prosperLoanData.csv)
-- [Prosper Loan Data - VariableDefinitions](https://github.com/jubins/Tableau-Projects/blob/master/ProsperLoanData/data/ProsperLoanData-VariableDefinitions.csv)
+The Prosper loan data set contains 160 countries with 6 idicators and scores on each coutrries, including customs, infrastructure, international shipment, logistics quality, timeliness,tracking and tracing, and overall.
+
+https://lpi.worldbank.org/sites/default/files/International_LPI_from_2007_to_2018.xlsx
 
 #### Summary
 In peer-to-peer lending, there are three main stakeholders: borrowers, lenders and the company itself. In my Tableau story I have done exploration on the relationship between these people, what affects borrowers Prosper Score and who defaults the most. First, I have done a time series analysis ranging from year 2007 – 2014 about the number of loans taken by borrowers, the amount of their loans and how their ProsperScore got affected in this duration. I noticed that since 2009, the loan business increased and climbed up quickly since 2013 and then dropped down at beginning of 2014 while the borrower credit scores constantly dropping over this time and some states having default rates more than 30%.
