@@ -17,20 +17,12 @@ On the official website of the logistics performance index, World Bank visualiza
 
 Then I then tried to design this data by combining it by combining the data for each period, applying the openstreetmap mapbox using the latitude, longitude of each country, designing color levels, and making filters that make it easier for users. 
 
-- You can view final version of my [Prosper Loan Data Story](https://public.tableau.com/profile/jubin.soni#!/vizhome/ProsperLoanData_7/ProsperLoanStory-Version2) by clicking on image below:
+- You can view final version of my [Logistics Performance Index Tableau Public Version](https://public.tableau.com/profile/gilang.pamungkas#!/vizhome/LogisticsPerformanceIndex_16142470328260/Dashboard1) or by clicking on image below:
 
-[![visualization image](https://github.com/jubins/Tableau-Projects/blob/master/ProsperLoanData/data/pld_screenshot.png)](https://public.tableau.com/profile/jubin.soni#!/vizhome/ProsperLoanData_7/ProsperLoanStory-Version2)
+[![visualization image](https://github.com/gilangpamungkas/Tableau-Project-Logistics-Performance-Index/blob/main/lpi_snapshot.jpg)](https://public.tableau.com/profile/gilang.pamungkas#!/vizhome/LogisticsPerformanceIndex_16142470328260/Dashboard1)
 
-- Version 1 of my Tableau story can be viewed by clicking on below image:
-
-[![visualization image](https://github.com/jubins/Tableau-Projects/blob/master/ProsperLoanData/data/pld_screenshot_v1.png)](https://public.tableau.com/profile/jubin.soni#!/vizhome/ProsperLoanData_Version1/ProsperLoanStory-Version1)
 
 
 ## References
-- [Prosper About.](https://www.prosper.com/plp/about/contact-us/)
-- [Prosper Loan Data Project on Kaggle.](https://www.kaggle.com/jschnessl/prosperloans)
-- [Repo on the same project.](https://github.com/grace-pehl/ProsperLoan) 
-- [MIT page showing stats usage on same project.](http://courses.media.mit.edu/2008fall/mas622j/Projects/CharlieCocoErnestoMatt/data/)
-- [Udacity Tableau Course.](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
-- [Tableau Tutorials.](https://www.tableau.com/learn/training)
-- A lot of googling to figure out how to do stuff.
+- https://lpi.worldbank.org/international/global
+- 
